@@ -100,7 +100,7 @@
 ---
 
 ## 复现方式 / Reproduction Steps
-- **代码仓库 / Code Repo**: 完整开源工程代码见本仓库 (MIT License)
+- **代码仓库 / Code Repo**: [https://github.com/deamybro/RescueLens-Spark-X2.6](https://github.com/deamybro/RescueLens-Spark-X2.6) (MIT License)
 - **运行框架及版本 / Runtime & Framework**:
   - Python 3.13.2
   - `transformers` / `huggingface_hub` / `llama-cpp-python` compatible
@@ -130,7 +130,8 @@
 ---
 
 ## 贡献者与披露 / Contributors & Disclosures
-- **个人 / 团队 / Entry Type**: 个人参赛 (Individual entry)
+- **个人 / 团队 / Entry Type**: 个人参赛 (Individual entry: [@deamybro](https://github.com/deamybro))
+- **贡献者个人主页 / Contributor Profile**: [https://github.com/deamybro](https://github.com/deamybro)
 - **AI 辅助开发说明 / AI Assistance Disclosure**:
   - 使用了 AI 编程助手协同搭建 Streamlit 前端界面、单元测试脚手架及自动化截图脚本；所有架构设计、提示词工程（Prompting）、救灾分级业务逻辑均经过人工验证与确认。
   - AI 仅作为开发辅助工具，并非参赛成员。
