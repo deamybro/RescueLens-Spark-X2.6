@@ -1,0 +1,42 @@
+[
+  {
+    "id": "EMERGENCY-2026-001",
+    "disaster_type": "Flash Flood",
+    "channel": "SMS / Citizen Hotline",
+    "raw_text": "HELP PLEASE!! Water is already reaching the second floor of our house near Riverside Avenue and 4th St behind the old brick bakery! My elderly grandmother (82, diabetic) has run out of insulin and there are 4 of us including an 8-month-old infant. Power went out 2 hours ago and cell signal is cutting out! We have no boat. Please send rescue boat immediately!",
+    "metadata": {
+      "sender_contact": "+1-555-0192",
+      "timestamp": "2026-10-30T14:15:00Z"
+    }
+  },
+  {
+    "id": "EMERGENCY-2026-002",
+    "disaster_type": "Earthquake",
+    "channel": "Social Media (Crowdsourced)",
+    "raw_text": "We felt severe shaking. Collapse on Pinecrest Hill Rd block 14. 2 neighbors are trapped under roof debris in garage, conscious and shouting for help. Smelling strong gas odor! Need search and rescue with extraction equipment and gas utility cutoff right now!",
+    "metadata": {
+      "sender_contact": "@rescue_helper_local",
+      "timestamp": "2026-10-30T14:18:22Z"
+    }
+  },
+  {
+    "id": "EMERGENCY-2026-003",
+    "disaster_type": "Typhoon / Power Outage",
+    "channel": "Community Shelter",
+    "raw_text": "Shelter #3 at North Valley Community Gym is safe and structurally fine, but our backup generator will run out of diesel in ~8 hours. Currently sheltering 45 people. We have clean water for 24 hours. Requesting routine fuel replenishment and infant formula by tomorrow morning.",
+    "metadata": {
+      "sender_contact": "Shelter Coord Dave",
+      "timestamp": "2026-10-30T14:22:10Z"
+    }
+  },
+  {
+    "id": "EMERGENCY-2026-004",
+    "disaster_type": "Wildfire",
+    "channel": "Emergency Radio Relay",
+    "raw_text": "Smoke is extremely dense on Ridgeview Pass near Mile Marker 18. A tour minibus with 12 passengers got flat tires on the road shoulder. Visibility is under 15 meters, fire front is approximately 1.5 miles west and advancing fast. Three passengers experiencing acute asthma attacks, inhalers exhausted. Urgent evacuation transport needed!",
+    "metadata": {
+      "sender_contact": "CB Radio Ch 9",
+      "timestamp": "2026-10-30T14:25:40Z"
+    }
+  }
+]
